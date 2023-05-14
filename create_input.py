@@ -6,6 +6,7 @@ for x in file:
     new_f.write(x)
     new_f.close()
     
+        
     i+=1
 
 
