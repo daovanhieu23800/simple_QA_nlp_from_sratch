@@ -1,0 +1,1 @@
+['LAnmod(vietjet air, hãng hàng không)', 'RAnmod(máy bay, vietjet air)', 'LAnsubj(bay, máy bay)', 'RAroot(root, bay)', 'RAto_loc(bay, đến)', 'LAto_loc(thành phố, đến)', 'RAWH_det_city(thành phố, nào)']

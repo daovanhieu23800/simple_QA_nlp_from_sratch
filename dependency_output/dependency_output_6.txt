@@ -1,0 +1,1 @@
+['RAnmod(máy bay, vj5)', 'LAnsubj(bay, máy bay)', 'RAroot(root, bay)', 'RAfrom_loc(bay, từ)', 'LAfrom_loc(tp. hà nội, từ)', 'RAname_loc(bay, tp. hà nội)', 'RAto_loc(bay, đến)', 'LAto_loc(khánh hòa, đến)', 'RAname_loc(bay, khánh hòa)', 'RAWHrun_time(bay, mấy giờ)', 'RAquery(bay, ?.)']

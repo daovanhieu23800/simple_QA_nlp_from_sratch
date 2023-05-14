@@ -1,0 +1,1 @@
+['RAWH_det(máy bay, nào)', 'LAnsubj(xuất phát, máy bay)', 'RAroot(root, xuất phát)', 'RAfrom_loc(xuất phát, từ)', 'LAfrom_loc(tp. hồ chí minh, từ)', 'RAname_loc(xuất phát, tp. hồ chí minh)', 'RAat_time(xuất phát, lúc)', 'RAWHrun_time(xuất phát, mấy giờ)', 'RAquery(xuất phát, ?.)']

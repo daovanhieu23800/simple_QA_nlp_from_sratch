@@ -1,0 +1,1 @@
+['RAWH_det(máy bay, nào)', 'LAnsubj(đến, máy bay)', 'RAroot(root, đến)', 'LAto_loc(thành phố, đến)', 'RAname(thành phố, huế)', 'RAtime(lúc, 13:30hr)']

@@ -1,0 +1,1 @@
+['máy bay', 'hãng hàng không', 'vietjet air', 'bay', 'đến', 'thành phố', 'nào', '?']

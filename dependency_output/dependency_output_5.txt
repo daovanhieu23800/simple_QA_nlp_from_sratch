@@ -1,0 +1,1 @@
+['RAnmod(máy bay, vn4)', 'LAnsubj(xuất phát, máy bay)', 'RAroot(root, xuất phát)', 'RAfrom_loc(xuất phát, từ)', 'LAfrom_loc(đà nẵng, từ)', 'RAname_loc(xuất phát, đà nẵng)', 'RAquery(xuất phát, ?.)']

@@ -1,0 +1,1 @@
+['RAWH_det(máy bay, nào)', 'LAnsubj(xuất phát, máy bay)', 'RAroot(root, xuất phát)', 'RAfrom_loc(xuất phát, từ)', 'LAfrom_loc(hải phòng, từ)', 'RAname_loc(xuất phát, hải phòng)', 'RAquery(xuất phát, ?.)']

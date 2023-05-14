@@ -1,0 +1,1 @@
+['RAWH_det(máy bay, nào)', 'LAnsubj(bay, máy bay)', 'RAroot(root, bay)', 'RAfrom_loc(bay, từ)', 'LAfrom_loc(hải phòng, từ)', 'RAname_loc(bay, hải phòng)', 'RAto_loc(bay, đến)', 'LAto_loc(khánh hòa, đến)', 'RAname_loc(bay, khánh hòa)']

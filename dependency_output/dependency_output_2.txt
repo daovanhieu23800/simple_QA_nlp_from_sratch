@@ -1,0 +1,1 @@
+['LAWH_det_id(mã hiệu, hãy cho biết)', 'RAnmod(mã hiệu, máy bay)', 'LAnsubj(hạ cánh, máy bay)', 'RAat_loc(hạ cánh, ở)', 'RAname_loc(hạ cánh, huế)', 'RAquery(hạ cánh, ?.)']
